@@ -1,71 +1,49 @@
-# Dynamic Pricing Engine + Sales Management System
+# C# .NET Dynamic Pricing Sales System
 
-![Project Badge](https://img.shields.io/badge/dynamic--pricing-blue.svg) ![Version Badge](https://img.shields.io/badge/version-1.0.0-green.svg)  
+## Tech Stack
+- **Back-end:** C# .NET Core
+- **Front-end:** ASP.NET MVC
+- **Database:** SQL Server
+- **AI Tools:** ML.NET, TensorFlow
+- **Cloud:** Azure
 
-## Project Overview  
-This project is designed to provide a comprehensive solution for dynamic pricing and sales management, utilizing advanced algorithms to optimize pricing strategies in real-time based on market conditions, competition, and customer behavior.  
+## Installation Commands
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/HUYVESEA0/DynamicPricingSalesSystem.git
+   cd DynamicPricingSalesSystem
+   ```
+2. Install the required packages:
+   ```bash
+   dotnet restore
+   ```
+3. Run the application:
+   ```bash
+   dotnet run
+   ```
 
-## Features  
-- Real-time pricing adjustments  
-- Sales management dashboard  
-- Historical data analysis  
-- User-friendly interface  
-- API integrations with third-party services  
+## C# Code Examples
+```csharp
+public class PricingModel
+{
+    public decimal CalculatePrice(decimal basePrice, decimal discount)
+    {
+        return basePrice - (basePrice * discount);
+    }
+}
+```
 
-## Installation Guide  
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/HUYVESEA0/DynamicPricingSalesSystem.git  
-   ```  
-2. Navigate to the project directory:  
-   ```bash  
-   cd DynamicPricingSalesSystem  
-   ```  
-3. Install the required dependencies:  
-   ```bash  
-   npm install  
-   ```  
-4. Start the application:  
-   ```bash  
-   npm start  
-   ```  
+## Comprehensive Features
+- Dynamic pricing based on user behavior
+- Real-time price adjustments
+- Historical data analysis
+- User-friendly dashboard for monitoring pricing strategies
 
-## Usage Examples  
-- To adjust pricing based on demand:  
-   ```javascript  
-   adjustPricing(demandFactor);  
-   ```  
-- To view sales data:  
-   ```javascript  
-   viewSalesData();  
-   ```  
+## AI Pricing Algorithms
+- Machine Learning algorithms for price prediction
+- Regression analysis to determine optimal pricing
 
-## Architecture Details  
-The application is structured using a microservices architecture, allowing for scalability and flexibility. Key components include:  
-- **Front-End**: React.js  
-- **Back-End**: Node.js with Express  
-- **Database**: MongoDB  
-
-## API Documentation  
-### Endpoints  
-- `GET /api/pricing` - Retrieve current pricing information  
-- `POST /api/sales` - Record a new sale  
-
-## Sample Data  
-| Product ID | Price | Stock |  
-|------------|-------|-------|  
-| 1          | $19.99| 100   |  
-| 2          | $29.99| 50    |  
-
-## Screenshots  
-![Dashboard](https://via.placeholder.com/800x400?text=Dashboard+Screenshot)  
-
-## Contributing Guidelines  
-1. Fork the repository  
-2. Create your feature branch: `git checkout -b feature/NewFeature`  
-3. Commit your changes: `git commit -m 'Add new feature'`  
-4. Push to the branch: `git push origin feature/NewFeature`  
-5. Open a pull request  
-
-## License  
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Enterprise Architecture Details
+- Microservices architecture for scalability
+- API Gateway for routing and load balancing
+- Continuous Integration/Continuous Deployment (CI/CD) pipelines for automated testing and deployment.
