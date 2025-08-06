@@ -1,0 +1,2132 @@
+[
+  {
+    "id": 1,
+    "customerId": 5,
+    "orderDate": "2025-05-19T03:17:35.3425205+00:00",
+    "status": 1,
+    "items": [
+      {
+        "orderId": 1,
+        "productId": 4,
+        "productName": "Brand9 Robot 842",
+        "quantity": 2,
+        "unitPrice": 111.09,
+        "totalPrice": 188.8530,
+        "discountApplied": 33.3270,
+        "effectiveUnitPrice": 94.4265
+      }
+    ],
+    "totalAmount": 188.8530,
+    "discountAmount": 28.327950,
+    "finalAmount": 160.525050,
+    "notes": "",
+    "shippedDate": null,
+    "deliveredDate": null,
+    "totalItems": 2
+  },
+  {
+    "id": 2,
+    "customerId": 3,
+    "orderDate": "2025-07-26T03:17:35.3471239+00:00",
+    "status": 0,
+    "items": [
+      {
+        "orderId": 2,
+        "productId": 8,
+        "productName": "Brand2 Table 706",
+        "quantity": 3,
+        "unitPrice": 141.07,
+        "totalPrice": 359.7285,
+        "discountApplied": 63.4815,
+        "effectiveUnitPrice": 119.9095
+      }
+    ],
+    "totalAmount": 359.7285,
+    "discountAmount": 53.959275,
+    "finalAmount": 305.769225,
+    "notes": "",
+    "shippedDate": null,
+    "deliveredDate": null,
+    "totalItems": 3
+  },
+  {
+    "id": 3,
+    "customerId": 11,
+    "orderDate": "2025-05-17T03:17:35.3471512+00:00",
+    "status": 1,
+    "items": [
+      {
+        "orderId": 3,
+        "productId": 17,
+        "productName": "Brand14 Lamp 384",
+        "quantity": 2,
+        "unitPrice": 190.35,
+        "totalPrice": 323.5950,
+        "discountApplied": 57.1050,
+        "effectiveUnitPrice": 161.7975
+      },
+      {
+        "orderId": 3,
+        "productId": 18,
+        "productName": "Brand2 Sweater 948",
+        "quantity": 2,
+        "unitPrice": 122.16,
+        "totalPrice": 207.6720,
+        "discountApplied": 36.6480,
+        "effectiveUnitPrice": 103.8360
+      },
+      {
+        "orderId": 3,
+        "productId": 20,
+        "productName": "Brand18 Textbook 646",
+        "quantity": 1,
+        "unitPrice": 91.80,
+        "totalPrice": 78.0300,
+        "discountApplied": 13.7700,
+        "effectiveUnitPrice": 78.0300
+      }
+    ],
+    "totalAmount": 609.2970,
+    "discountAmount": 91.394550,
+    "finalAmount": 517.902450,
+    "notes": "",
+    "shippedDate": null,
+    "deliveredDate": null,
+    "totalItems": 5
+  },
+  {
+    "id": 4,
+    "customerId": 21,
+    "orderDate": "2025-06-09T03:17:35.3473102+00:00",
+    "status": 3,
+    "items": [
+      {
+        "orderId": 4,
+        "productId": 16,
+        "productName": "Brand11 T-Shirt 756",
+        "quantity": 2,
+        "unitPrice": 131.82,
+        "totalPrice": 224.0940,
+        "discountApplied": 39.5460,
+        "effectiveUnitPrice": 112.0470
+      },
+      {
+        "orderId": 4,
+        "productId": 12,
+        "productName": "Brand13 Lipstick 338",
+        "quantity": 1,
+        "unitPrice": 70.52,
+        "totalPrice": 59.9420,
+        "discountApplied": 10.5780,
+        "effectiveUnitPrice": 59.9420
+      },
+      {
+        "orderId": 4,
+        "productId": 2,
+        "productName": "Brand9 Jeans 623",
+        "quantity": 3,
+        "unitPrice": 223.00,
+        "totalPrice": 568.6500,
+        "discountApplied": 100.3500,
+        "effectiveUnitPrice": 189.5500
+      }
+    ],
+    "totalAmount": 852.6860,
+    "discountAmount": 127.902900,
+    "finalAmount": 724.783100,
+    "notes": "",
+    "shippedDate": "2025-06-11T03:17:35.3473102+00:00",
+    "deliveredDate": "2025-06-14T03:17:35.3473102+00:00",
+    "totalItems": 6
+  },
+  {
+    "id": 5,
+    "customerId": 24,
+    "orderDate": "2025-06-23T03:17:35.3476201+00:00",
+    "status": 2,
+    "items": [
+      {
+        "orderId": 5,
+        "productId": 1,
+        "productName": "Brand18 Block 420",
+        "quantity": 1,
+        "unitPrice": 111.63,
+        "totalPrice": 94.8855,
+        "discountApplied": 16.7445,
+        "effectiveUnitPrice": 94.8855
+      },
+      {
+        "orderId": 5,
+        "productId": 16,
+        "productName": "Brand11 T-Shirt 756",
+        "quantity": 3,
+        "unitPrice": 131.82,
+        "totalPrice": 336.1410,
+        "discountApplied": 59.3190,
+        "effectiveUnitPrice": 112.0470
+      },
+      {
+        "orderId": 5,
+        "productId": 6,
+        "productName": "Brand12 Bike 582",
+        "quantity": 1,
+        "unitPrice": 163.60,
+        "totalPrice": 139.0600,
+        "discountApplied": 24.5400,
+        "effectiveUnitPrice": 139.0600
+      }
+    ],
+    "totalAmount": 570.0865,
+    "discountAmount": 85.512975,
+    "finalAmount": 484.573525,
+    "notes": "",
+    "shippedDate": "2025-06-25T03:17:35.3476201+00:00",
+    "deliveredDate": null,
+    "totalItems": 5
+  },
+  {
+    "id": 6,
+    "customerId": 15,
+    "orderDate": "2025-07-05T03:17:35.3476321+00:00",
+    "status": 3,
+    "items": [
+      {
+        "orderId": 6,
+        "productId": 15,
+        "productName": "Brand18 Robot 410",
+        "quantity": 1,
+        "unitPrice": 172.96,
+        "totalPrice": 164.3120,
+        "discountApplied": 8.6480,
+        "effectiveUnitPrice": 164.3120
+      },
+      {
+        "orderId": 6,
+        "productId": 4,
+        "productName": "Brand9 Robot 842",
+        "quantity": 4,
+        "unitPrice": 111.09,
+        "totalPrice": 427.6965,
+        "discountApplied": 16.6635,
+        "effectiveUnitPrice": 106.924125
+      },
+      {
+        "orderId": 6,
+        "productId": 10,
+        "productName": "Brand17 Jeans 432",
+        "quantity": 1,
+        "unitPrice": 188.95,
+        "totalPrice": 179.5025,
+        "discountApplied": 9.4475,
+        "effectiveUnitPrice": 179.5025
+      }
+    ],
+    "totalAmount": 771.5110,
+    "discountAmount": 38.575550,
+    "finalAmount": 732.935450,
+    "notes": "",
+    "shippedDate": "2025-07-06T03:17:35.3476321+00:00",
+    "deliveredDate": "2025-07-09T03:17:35.3476321+00:00",
+    "totalItems": 6
+  },
+  {
+    "id": 7,
+    "customerId": 9,
+    "orderDate": "2025-06-07T03:17:35.3476369+00:00",
+    "status": 3,
+    "items": [
+      {
+        "orderId": 7,
+        "productId": 17,
+        "productName": "Brand14 Lamp 384",
+        "quantity": 1,
+        "unitPrice": 190.35,
+        "totalPrice": 161.7975,
+        "discountApplied": 28.5525,
+        "effectiveUnitPrice": 161.7975
+      },
+      {
+        "orderId": 7,
+        "productId": 12,
+        "productName": "Brand13 Lipstick 338",
+        "quantity": 3,
+        "unitPrice": 70.52,
+        "totalPrice": 179.8260,
+        "discountApplied": 31.7340,
+        "effectiveUnitPrice": 59.9420
+      }
+    ],
+    "totalAmount": 341.6235,
+    "discountAmount": 51.243525,
+    "finalAmount": 290.379975,
+    "notes": "",
+    "shippedDate": "2025-06-09T03:17:35.3476369+00:00",
+    "deliveredDate": "2025-06-11T03:17:35.3476369+00:00",
+    "totalItems": 4
+  },
+  {
+    "id": 8,
+    "customerId": 29,
+    "orderDate": "2025-05-16T03:17:35.3476393+00:00",
+    "status": 3,
+    "items": [
+      {
+        "orderId": 8,
+        "productId": 14,
+        "productName": "Brand4 Lamp 291",
+        "quantity": 3,
+        "unitPrice": 58.81,
+        "totalPrice": 149.9655,
+        "discountApplied": 26.4645,
+        "effectiveUnitPrice": 49.9885
+      },
+      {
+        "orderId": 8,
+        "productId": 7,
+        "productName": "Brand11 Weights 842",
+        "quantity": 3,
+        "unitPrice": 48.37,
+        "totalPrice": 123.3435,
+        "discountApplied": 21.7665,
+        "effectiveUnitPrice": 41.1145
+      },
+      {
+        "orderId": 8,
+        "productId": 5,
+        "productName": "Brand14 Monitor 506",
+        "quantity": 3,
+        "unitPrice": 81.31,
+        "totalPrice": 207.3405,
+        "discountApplied": 36.5895,
+        "effectiveUnitPrice": 69.1135
+      },
+      {
+        "orderId": 8,
+        "productId": 1,
+        "productName": "Brand18 Block 420",
+        "quantity": 1,
+        "unitPrice": 111.63,
+        "totalPrice": 94.8855,
+        "discountApplied": 16.7445,
+        "effectiveUnitPrice": 94.8855
+      }
+    ],
+    "totalAmount": 575.5350,
+    "discountAmount": 86.330250,
+    "finalAmount": 489.204750,
+    "notes": "",
+    "shippedDate": "2025-05-17T03:17:35.3476393+00:00",
+    "deliveredDate": "2025-05-21T03:17:35.3476393+00:00",
+    "totalItems": 10
+  },
+  {
+    "id": 9,
+    "customerId": 10,
+    "orderDate": "2025-06-21T03:17:35.3476438+00:00",
+    "status": 1,
+    "items": [
+      {
+        "orderId": 9,
+        "productId": 18,
+        "productName": "Brand2 Sweater 948",
+        "quantity": 2,
+        "unitPrice": 122.16,
+        "totalPrice": 232.1040,
+        "discountApplied": 12.2160,
+        "effectiveUnitPrice": 116.0520
+      },
+      {
+        "orderId": 9,
+        "productId": 14,
+        "productName": "Brand4 Lamp 291",
+        "quantity": 1,
+        "unitPrice": 58.81,
+        "totalPrice": 55.8695,
+        "discountApplied": 2.9405,
+        "effectiveUnitPrice": 55.8695
+      },
+      {
+        "orderId": 9,
+        "productId": 13,
+        "productName": "Brand17 Lamp 311",
+        "quantity": 2,
+        "unitPrice": 26.53,
+        "totalPrice": 50.4070,
+        "discountApplied": 2.6530,
+        "effectiveUnitPrice": 25.2035
+      },
+      {
+        "orderId": 9,
+        "productId": 5,
+        "productName": "Brand14 Monitor 506",
+        "quantity": 1,
+        "unitPrice": 81.31,
+        "totalPrice": 77.2445,
+        "discountApplied": 4.0655,
+        "effectiveUnitPrice": 77.2445
+      },
+      {
+        "orderId": 9,
+        "productId": 17,
+        "productName": "Brand14 Lamp 384",
+        "quantity": 2,
+        "unitPrice": 190.35,
+        "totalPrice": 361.6650,
+        "discountApplied": 19.0350,
+        "effectiveUnitPrice": 180.8325
+      }
+    ],
+    "totalAmount": 777.2900,
+    "discountAmount": 38.864500,
+    "finalAmount": 738.425500,
+    "notes": "",
+    "shippedDate": null,
+    "deliveredDate": null,
+    "totalItems": 8
+  },
+  {
+    "id": 10,
+    "customerId": 1,
+    "orderDate": "2025-05-16T03:17:35.3476588+00:00",
+    "status": 2,
+    "items": [
+      {
+        "orderId": 10,
+        "productId": 9,
+        "productName": "Brand3 Car 737",
+        "quantity": 2,
+        "unitPrice": 191.19,
+        "totalPrice": 363.2610,
+        "discountApplied": 19.1190,
+        "effectiveUnitPrice": 181.6305
+      },
+      {
+        "orderId": 10,
+        "productId": 19,
+        "productName": "Brand15 Ball 247",
+        "quantity": 2,
+        "unitPrice": 93.92,
+        "totalPrice": 178.4480,
+        "discountApplied": 9.3920,
+        "effectiveUnitPrice": 89.2240
+      }
+    ],
+    "totalAmount": 541.7090,
+    "discountAmount": 27.085450,
+    "finalAmount": 514.623550,
+    "notes": "",
+    "shippedDate": "2025-05-18T03:17:35.3476588+00:00",
+    "deliveredDate": null,
+    "totalItems": 4
+  },
+  {
+    "id": 11,
+    "customerId": 17,
+    "orderDate": "2025-07-05T03:17:35.3476611+00:00",
+    "status": 0,
+    "items": [
+      {
+        "orderId": 11,
+        "productId": 19,
+        "productName": "Brand15 Ball 247",
+        "quantity": 1,
+        "unitPrice": 93.92,
+        "totalPrice": 89.2240,
+        "discountApplied": 4.6960,
+        "effectiveUnitPrice": 89.2240
+      },
+      {
+        "orderId": 11,
+        "productId": 14,
+        "productName": "Brand4 Lamp 291",
+        "quantity": 1,
+        "unitPrice": 58.81,
+        "totalPrice": 55.8695,
+        "discountApplied": 2.9405,
+        "effectiveUnitPrice": 55.8695
+      },
+      {
+        "orderId": 11,
+        "productId": 7,
+        "productName": "Brand11 Weights 842",
+        "quantity": 2,
+        "unitPrice": 48.37,
+        "totalPrice": 91.9030,
+        "discountApplied": 4.8370,
+        "effectiveUnitPrice": 45.9515
+      },
+      {
+        "orderId": 11,
+        "productId": 18,
+        "productName": "Brand2 Sweater 948",
+        "quantity": 2,
+        "unitPrice": 122.16,
+        "totalPrice": 232.1040,
+        "discountApplied": 12.2160,
+        "effectiveUnitPrice": 116.0520
+      },
+      {
+        "orderId": 11,
+        "productId": 15,
+        "productName": "Brand18 Robot 410",
+        "quantity": 3,
+        "unitPrice": 172.96,
+        "totalPrice": 492.9360,
+        "discountApplied": 25.9440,
+        "effectiveUnitPrice": 164.3120
+      }
+    ],
+    "totalAmount": 962.0365,
+    "discountAmount": 48.101825,
+    "finalAmount": 913.934675,
+    "notes": "",
+    "shippedDate": null,
+    "deliveredDate": null,
+    "totalItems": 9
+  },
+  {
+    "id": 12,
+    "customerId": 1,
+    "orderDate": "2025-06-28T03:17:35.3476667+00:00",
+    "status": 1,
+    "items": [
+      {
+        "orderId": 12,
+        "productId": 19,
+        "productName": "Brand15 Ball 247",
+        "quantity": 2,
+        "unitPrice": 93.92,
+        "totalPrice": 178.4480,
+        "discountApplied": 9.3920,
+        "effectiveUnitPrice": 89.2240
+      },
+      {
+        "orderId": 12,
+        "productId": 18,
+        "productName": "Brand2 Sweater 948",
+        "quantity": 3,
+        "unitPrice": 122.16,
+        "totalPrice": 348.1560,
+        "discountApplied": 18.3240,
+        "effectiveUnitPrice": 116.0520
+      },
+      {
+        "orderId": 12,
+        "productId": 6,
+        "productName": "Brand12 Bike 582",
+        "quantity": 1,
+        "unitPrice": 163.60,
+        "totalPrice": 155.4200,
+        "discountApplied": 8.1800,
+        "effectiveUnitPrice": 155.4200
+      }
+    ],
+    "totalAmount": 682.0240,
+    "discountAmount": 34.101200,
+    "finalAmount": 647.922800,
+    "notes": "",
+    "shippedDate": null,
+    "deliveredDate": null,
+    "totalItems": 6
+  },
+  {
+    "id": 13,
+    "customerId": 19,
+    "orderDate": "2025-06-21T03:17:35.3476696+00:00",
+    "status": 3,
+    "items": [
+      {
+        "orderId": 13,
+        "productId": 16,
+        "productName": "Brand11 T-Shirt 756",
+        "quantity": 1,
+        "unitPrice": 131.82,
+        "totalPrice": 112.0470,
+        "discountApplied": 19.7730,
+        "effectiveUnitPrice": 112.0470
+      },
+      {
+        "orderId": 13,
+        "productId": 13,
+        "productName": "Brand17 Lamp 311",
+        "quantity": 4,
+        "unitPrice": 26.53,
+        "totalPrice": 102.1405,
+        "discountApplied": 3.9795,
+        "effectiveUnitPrice": 25.535125
+      }
+    ],
+    "totalAmount": 214.1875,
+    "discountAmount": 32.128125,
+    "finalAmount": 182.059375,
+    "notes": "",
+    "shippedDate": "2025-06-22T03:17:35.3476696+00:00",
+    "deliveredDate": "2025-06-27T03:17:35.3476696+00:00",
+    "totalItems": 5
+  },
+  {
+    "id": 14,
+    "customerId": 30,
+    "orderDate": "2025-05-23T03:17:35.3476728+00:00",
+    "status": 0,
+    "items": [
+      {
+        "orderId": 14,
+        "productId": 2,
+        "productName": "Brand9 Jeans 623",
+        "quantity": 3,
+        "unitPrice": 223.00,
+        "totalPrice": 635.5500,
+        "discountApplied": 33.4500,
+        "effectiveUnitPrice": 211.8500
+      },
+      {
+        "orderId": 14,
+        "productId": 18,
+        "productName": "Brand2 Sweater 948",
+        "quantity": 2,
+        "unitPrice": 122.16,
+        "totalPrice": 232.1040,
+        "discountApplied": 12.2160,
+        "effectiveUnitPrice": 116.0520
+      },
+      {
+        "orderId": 14,
+        "productId": 6,
+        "productName": "Brand12 Bike 582",
+        "quantity": 3,
+        "unitPrice": 163.60,
+        "totalPrice": 466.2600,
+        "discountApplied": 24.5400,
+        "effectiveUnitPrice": 155.4200
+      }
+    ],
+    "totalAmount": 1333.9140,
+    "discountAmount": 66.695700,
+    "finalAmount": 1267.218300,
+    "notes": "",
+    "shippedDate": null,
+    "deliveredDate": null,
+    "totalItems": 8
+  },
+  {
+    "id": 15,
+    "customerId": 12,
+    "orderDate": "2025-08-01T03:17:35.3476758+00:00",
+    "status": 3,
+    "items": [
+      {
+        "orderId": 15,
+        "productId": 1,
+        "productName": "Brand18 Block 420",
+        "quantity": 1,
+        "unitPrice": 111.63,
+        "totalPrice": 109.3974,
+        "discountApplied": 2.2326,
+        "effectiveUnitPrice": 109.3974
+      },
+      {
+        "orderId": 15,
+        "productId": 9,
+        "productName": "Brand3 Car 737",
+        "quantity": 3,
+        "unitPrice": 191.19,
+        "totalPrice": 562.0986,
+        "discountApplied": 11.4714,
+        "effectiveUnitPrice": 187.3662
+      },
+      {
+        "orderId": 15,
+        "productId": 11,
+        "productName": "Brand16 Biography 242",
+        "quantity": 3,
+        "unitPrice": 230.90,
+        "totalPrice": 678.8460,
+        "discountApplied": 13.8540,
+        "effectiveUnitPrice": 226.2820
+      },
+      {
+        "orderId": 15,
+        "productId": 5,
+        "productName": "Brand14 Monitor 506",
+        "quantity": 4,
+        "unitPrice": 81.31,
+        "totalPrice": 323.6138,
+        "discountApplied": 1.6262,
+        "effectiveUnitPrice": 80.90345
+      }
+    ],
+    "totalAmount": 1673.9558,
+    "discountAmount": 33.479116,
+    "finalAmount": 1640.476684,
+    "notes": "",
+    "shippedDate": "2025-08-03T03:17:35.3476758+00:00",
+    "deliveredDate": "2025-08-05T03:17:35.3476758+00:00",
+    "totalItems": 11
+  },
+  {
+    "id": 16,
+    "customerId": 15,
+    "orderDate": "2025-06-24T03:17:35.3476812+00:00",
+    "status": 2,
+    "items": [
+      {
+        "orderId": 16,
+        "productId": 6,
+        "productName": "Brand12 Bike 582",
+        "quantity": 3,
+        "unitPrice": 163.60,
+        "totalPrice": 466.2600,
+        "discountApplied": 24.5400,
+        "effectiveUnitPrice": 155.4200
+      },
+      {
+        "orderId": 16,
+        "productId": 20,
+        "productName": "Brand18 Textbook 646",
+        "quantity": 3,
+        "unitPrice": 91.80,
+        "totalPrice": 261.6300,
+        "discountApplied": 13.7700,
+        "effectiveUnitPrice": 87.2100
+      },
+      {
+        "orderId": 16,
+        "productId": 11,
+        "productName": "Brand16 Biography 242",
+        "quantity": 2,
+        "unitPrice": 230.90,
+        "totalPrice": 438.7100,
+        "discountApplied": 23.0900,
+        "effectiveUnitPrice": 219.3550
+      }
+    ],
+    "totalAmount": 1166.6000,
+    "discountAmount": 58.330000,
+    "finalAmount": 1108.270000,
+    "notes": "",
+    "shippedDate": "2025-06-26T03:17:35.3476812+00:00",
+    "deliveredDate": null,
+    "totalItems": 8
+  },
+  {
+    "id": 17,
+    "customerId": 30,
+    "orderDate": "2025-07-31T03:17:35.3476843+00:00",
+    "status": 4,
+    "items": [
+      {
+        "orderId": 17,
+        "productId": 10,
+        "productName": "Brand17 Jeans 432",
+        "quantity": 3,
+        "unitPrice": 188.95,
+        "totalPrice": 538.5075,
+        "discountApplied": 28.3425,
+        "effectiveUnitPrice": 179.5025
+      },
+      {
+        "orderId": 17,
+        "productId": 12,
+        "productName": "Brand13 Lipstick 338",
+        "quantity": 3,
+        "unitPrice": 70.52,
+        "totalPrice": 200.9820,
+        "discountApplied": 10.5780,
+        "effectiveUnitPrice": 66.9940
+      },
+      {
+        "orderId": 17,
+        "productId": 8,
+        "productName": "Brand2 Table 706",
+        "quantity": 1,
+        "unitPrice": 141.07,
+        "totalPrice": 134.0165,
+        "discountApplied": 7.0535,
+        "effectiveUnitPrice": 134.0165
+      }
+    ],
+    "totalAmount": 873.5060,
+    "discountAmount": 43.675300,
+    "finalAmount": 829.830700,
+    "notes": "",
+    "shippedDate": "2025-08-02T03:17:35.3476843+00:00",
+    "deliveredDate": null,
+    "totalItems": 7
+  },
+  {
+    "id": 18,
+    "customerId": 20,
+    "orderDate": "2025-06-18T03:17:35.3476918+00:00",
+    "status": 1,
+    "items": [
+      {
+        "orderId": 18,
+        "productId": 18,
+        "productName": "Brand2 Sweater 948",
+        "quantity": 1,
+        "unitPrice": 122.16,
+        "totalPrice": 103.8360,
+        "discountApplied": 18.3240,
+        "effectiveUnitPrice": 103.8360
+      },
+      {
+        "orderId": 18,
+        "productId": 8,
+        "productName": "Brand2 Table 706",
+        "quantity": 2,
+        "unitPrice": 141.07,
+        "totalPrice": 239.8190,
+        "discountApplied": 42.3210,
+        "effectiveUnitPrice": 119.9095
+      }
+    ],
+    "totalAmount": 343.6550,
+    "discountAmount": 51.548250,
+    "finalAmount": 292.106750,
+    "notes": "",
+    "shippedDate": null,
+    "deliveredDate": null,
+    "totalItems": 3
+  },
+  {
+    "id": 19,
+    "customerId": 21,
+    "orderDate": "2025-06-05T03:17:35.3476966+00:00",
+    "status": 3,
+    "items": [
+      {
+        "orderId": 19,
+        "productId": 18,
+        "productName": "Brand2 Sweater 948",
+        "quantity": 3,
+        "unitPrice": 122.16,
+        "totalPrice": 311.5080,
+        "discountApplied": 54.9720,
+        "effectiveUnitPrice": 103.8360
+      },
+      {
+        "orderId": 19,
+        "productId": 19,
+        "productName": "Brand15 Ball 247",
+        "quantity": 2,
+        "unitPrice": 93.92,
+        "totalPrice": 159.6640,
+        "discountApplied": 28.1760,
+        "effectiveUnitPrice": 79.8320
+      }
+    ],
+    "totalAmount": 471.1720,
+    "discountAmount": 70.675800,
+    "finalAmount": 400.496200,
+    "notes": "",
+    "shippedDate": "2025-06-06T03:17:35.3476966+00:00",
+    "deliveredDate": "2025-06-07T03:17:35.3476966+00:00",
+    "totalItems": 5
+  },
+  {
+    "id": 20,
+    "customerId": 18,
+    "orderDate": "2025-07-21T03:17:35.347702+00:00",
+    "status": 1,
+    "items": [
+      {
+        "orderId": 20,
+        "productId": 9,
+        "productName": "Brand3 Car 737",
+        "quantity": 3,
+        "unitPrice": 191.19,
+        "totalPrice": 487.5345,
+        "discountApplied": 86.0355,
+        "effectiveUnitPrice": 162.5115
+      }
+    ],
+    "totalAmount": 487.5345,
+    "discountAmount": 73.130175,
+    "finalAmount": 414.404325,
+    "notes": "",
+    "shippedDate": null,
+    "deliveredDate": null,
+    "totalItems": 3
+  },
+  {
+    "id": 21,
+    "customerId": 1,
+    "orderDate": "2025-06-12T03:17:35.3477033+00:00",
+    "status": 4,
+    "items": [
+      {
+        "orderId": 21,
+        "productId": 5,
+        "productName": "Brand14 Monitor 506",
+        "quantity": 3,
+        "unitPrice": 81.31,
+        "totalPrice": 231.7335,
+        "discountApplied": 12.1965,
+        "effectiveUnitPrice": 77.2445
+      },
+      {
+        "orderId": 21,
+        "productId": 1,
+        "productName": "Brand18 Block 420",
+        "quantity": 1,
+        "unitPrice": 111.63,
+        "totalPrice": 106.0485,
+        "discountApplied": 5.5815,
+        "effectiveUnitPrice": 106.0485
+      },
+      {
+        "orderId": 21,
+        "productId": 2,
+        "productName": "Brand9 Jeans 623",
+        "quantity": 1,
+        "unitPrice": 223.00,
+        "totalPrice": 211.8500,
+        "discountApplied": 11.1500,
+        "effectiveUnitPrice": 211.8500
+      },
+      {
+        "orderId": 21,
+        "productId": 11,
+        "productName": "Brand16 Biography 242",
+        "quantity": 3,
+        "unitPrice": 230.90,
+        "totalPrice": 658.0650,
+        "discountApplied": 34.6350,
+        "effectiveUnitPrice": 219.3550
+      }
+    ],
+    "totalAmount": 1207.6970,
+    "discountAmount": 60.384850,
+    "finalAmount": 1147.312150,
+    "notes": "",
+    "shippedDate": "2025-06-14T03:17:35.3477033+00:00",
+    "deliveredDate": null,
+    "totalItems": 8
+  },
+  {
+    "id": 22,
+    "customerId": 14,
+    "orderDate": "2025-08-02T03:17:35.3477074+00:00",
+    "status": 4,
+    "items": [
+      {
+        "orderId": 22,
+        "productId": 1,
+        "productName": "Brand18 Block 420",
+        "quantity": 1,
+        "unitPrice": 111.63,
+        "totalPrice": 94.8855,
+        "discountApplied": 16.7445,
+        "effectiveUnitPrice": 94.8855
+      },
+      {
+        "orderId": 22,
+        "productId": 17,
+        "productName": "Brand14 Lamp 384",
+        "quantity": 3,
+        "unitPrice": 190.35,
+        "totalPrice": 485.3925,
+        "discountApplied": 85.6575,
+        "effectiveUnitPrice": 161.7975
+      },
+      {
+        "orderId": 22,
+        "productId": 4,
+        "productName": "Brand9 Robot 842",
+        "quantity": 3,
+        "unitPrice": 111.09,
+        "totalPrice": 283.2795,
+        "discountApplied": 49.9905,
+        "effectiveUnitPrice": 94.4265
+      }
+    ],
+    "totalAmount": 863.5575,
+    "discountAmount": 129.533625,
+    "finalAmount": 734.023875,
+    "notes": "",
+    "shippedDate": "2025-08-04T03:17:35.3477074+00:00",
+    "deliveredDate": null,
+    "totalItems": 7
+  },
+  {
+    "id": 23,
+    "customerId": 14,
+    "orderDate": "2025-06-23T03:17:35.3477105+00:00",
+    "status": 3,
+    "items": [
+      {
+        "orderId": 23,
+        "productId": 3,
+        "productName": "Brand9 Bandage 635",
+        "quantity": 6,
+        "unitPrice": 98.83,
+        "totalPrice": 548.5065,
+        "discountApplied": 44.4735,
+        "effectiveUnitPrice": 91.41775
+      },
+      {
+        "orderId": 23,
+        "productId": 7,
+        "productName": "Brand11 Weights 842",
+        "quantity": 2,
+        "unitPrice": 48.37,
+        "totalPrice": 82.2290,
+        "discountApplied": 14.5110,
+        "effectiveUnitPrice": 41.1145
+      }
+    ],
+    "totalAmount": 630.7355,
+    "discountAmount": 94.610325,
+    "finalAmount": 536.125175,
+    "notes": "",
+    "shippedDate": "2025-06-25T03:17:35.3477105+00:00",
+    "deliveredDate": "2025-07-01T03:17:35.3477105+00:00",
+    "totalItems": 8
+  },
+  {
+    "id": 24,
+    "customerId": 26,
+    "orderDate": "2025-07-01T03:17:35.3477136+00:00",
+    "status": 0,
+    "items": [
+      {
+        "orderId": 24,
+        "productId": 6,
+        "productName": "Brand12 Bike 582",
+        "quantity": 3,
+        "unitPrice": 163.60,
+        "totalPrice": 417.1800,
+        "discountApplied": 73.6200,
+        "effectiveUnitPrice": 139.0600
+      },
+      {
+        "orderId": 24,
+        "productId": 15,
+        "productName": "Brand18 Robot 410",
+        "quantity": 2,
+        "unitPrice": 172.96,
+        "totalPrice": 294.0320,
+        "discountApplied": 51.8880,
+        "effectiveUnitPrice": 147.0160
+      },
+      {
+        "orderId": 24,
+        "productId": 17,
+        "productName": "Brand14 Lamp 384",
+        "quantity": 1,
+        "unitPrice": 190.35,
+        "totalPrice": 161.7975,
+        "discountApplied": 28.5525,
+        "effectiveUnitPrice": 161.7975
+      },
+      {
+        "orderId": 24,
+        "productId": 16,
+        "productName": "Brand11 T-Shirt 756",
+        "quantity": 3,
+        "unitPrice": 131.82,
+        "totalPrice": 336.1410,
+        "discountApplied": 59.3190,
+        "effectiveUnitPrice": 112.0470
+      }
+    ],
+    "totalAmount": 1209.1505,
+    "discountAmount": 181.372575,
+    "finalAmount": 1027.777925,
+    "notes": "",
+    "shippedDate": null,
+    "deliveredDate": null,
+    "totalItems": 9
+  },
+  {
+    "id": 25,
+    "customerId": 15,
+    "orderDate": "2025-08-06T03:17:35.3477178+00:00",
+    "status": 4,
+    "items": [
+      {
+        "orderId": 25,
+        "productId": 3,
+        "productName": "Brand9 Bandage 635",
+        "quantity": 1,
+        "unitPrice": 98.83,
+        "totalPrice": 93.8885,
+        "discountApplied": 4.9415,
+        "effectiveUnitPrice": 93.8885
+      },
+      {
+        "orderId": 25,
+        "productId": 11,
+        "productName": "Brand16 Biography 242",
+        "quantity": 3,
+        "unitPrice": 230.90,
+        "totalPrice": 658.0650,
+        "discountApplied": 34.6350,
+        "effectiveUnitPrice": 219.3550
+      },
+      {
+        "orderId": 25,
+        "productId": 18,
+        "productName": "Brand2 Sweater 948",
+        "quantity": 2,
+        "unitPrice": 122.16,
+        "totalPrice": 238.2120,
+        "discountApplied": 6.1080,
+        "effectiveUnitPrice": 119.1060
+      },
+      {
+        "orderId": 25,
+        "productId": 13,
+        "productName": "Brand17 Lamp 311",
+        "quantity": 1,
+        "unitPrice": 26.53,
+        "totalPrice": 25.2035,
+        "discountApplied": 1.3265,
+        "effectiveUnitPrice": 25.2035
+      }
+    ],
+    "totalAmount": 1015.3690,
+    "discountAmount": 50.768450,
+    "finalAmount": 964.600550,
+    "notes": "",
+    "shippedDate": "2025-08-08T03:17:35.3477178+00:00",
+    "deliveredDate": null,
+    "totalItems": 7
+  },
+  {
+    "id": 26,
+    "customerId": 1,
+    "orderDate": "2025-06-02T03:17:35.3477513+00:00",
+    "status": 3,
+    "items": [
+      {
+        "orderId": 26,
+        "productId": 1,
+        "productName": "Brand18 Block 420",
+        "quantity": 2,
+        "unitPrice": 111.63,
+        "totalPrice": 212.0970,
+        "discountApplied": 11.1630,
+        "effectiveUnitPrice": 106.0485
+      },
+      {
+        "orderId": 26,
+        "productId": 4,
+        "productName": "Brand9 Robot 842",
+        "quantity": 2,
+        "unitPrice": 111.09,
+        "totalPrice": 216.6255,
+        "discountApplied": 5.5545,
+        "effectiveUnitPrice": 108.31275
+      },
+      {
+        "orderId": 26,
+        "productId": 14,
+        "productName": "Brand4 Lamp 291",
+        "quantity": 3,
+        "unitPrice": 58.81,
+        "totalPrice": 167.6085,
+        "discountApplied": 8.8215,
+        "effectiveUnitPrice": 55.8695
+      }
+    ],
+    "totalAmount": 596.3310,
+    "discountAmount": 29.816550,
+    "finalAmount": 566.514450,
+    "notes": "",
+    "shippedDate": "2025-06-04T03:17:35.3477513+00:00",
+    "deliveredDate": "2025-06-05T03:17:35.3477513+00:00",
+    "totalItems": 7
+  },
+  {
+    "id": 27,
+    "customerId": 8,
+    "orderDate": "2025-08-03T03:17:35.3477572+00:00",
+    "status": 0,
+    "items": [
+      {
+        "orderId": 27,
+        "productId": 11,
+        "productName": "Brand16 Biography 242",
+        "quantity": 3,
+        "unitPrice": 230.90,
+        "totalPrice": 588.7950,
+        "discountApplied": 103.9050,
+        "effectiveUnitPrice": 196.2650
+      },
+      {
+        "orderId": 27,
+        "productId": 18,
+        "productName": "Brand2 Sweater 948",
+        "quantity": 2,
+        "unitPrice": 122.16,
+        "totalPrice": 207.6720,
+        "discountApplied": 36.6480,
+        "effectiveUnitPrice": 103.8360
+      }
+    ],
+    "totalAmount": 796.4670,
+    "discountAmount": 119.470050,
+    "finalAmount": 676.996950,
+    "notes": "",
+    "shippedDate": null,
+    "deliveredDate": null,
+    "totalItems": 5
+  },
+  {
+    "id": 28,
+    "customerId": 28,
+    "orderDate": "2025-05-27T03:17:35.3477597+00:00",
+    "status": 2,
+    "items": [
+      {
+        "orderId": 28,
+        "productId": 3,
+        "productName": "Brand9 Bandage 635",
+        "quantity": 2,
+        "unitPrice": 98.83,
+        "totalPrice": 168.0110,
+        "discountApplied": 29.6490,
+        "effectiveUnitPrice": 84.0055
+      },
+      {
+        "orderId": 28,
+        "productId": 17,
+        "productName": "Brand14 Lamp 384",
+        "quantity": 1,
+        "unitPrice": 190.35,
+        "totalPrice": 161.7975,
+        "discountApplied": 28.5525,
+        "effectiveUnitPrice": 161.7975
+      }
+    ],
+    "totalAmount": 329.8085,
+    "discountAmount": 49.471275,
+    "finalAmount": 280.337225,
+    "notes": "",
+    "shippedDate": "2025-05-28T03:17:35.3477597+00:00",
+    "deliveredDate": null,
+    "totalItems": 3
+  },
+  {
+    "id": 29,
+    "customerId": 14,
+    "orderDate": "2025-07-02T03:17:35.347762+00:00",
+    "status": 0,
+    "items": [
+      {
+        "orderId": 29,
+        "productId": 19,
+        "productName": "Brand15 Ball 247",
+        "quantity": 1,
+        "unitPrice": 93.92,
+        "totalPrice": 79.8320,
+        "discountApplied": 14.0880,
+        "effectiveUnitPrice": 79.8320
+      }
+    ],
+    "totalAmount": 79.8320,
+    "discountAmount": 11.974800,
+    "finalAmount": 67.857200,
+    "notes": "",
+    "shippedDate": null,
+    "deliveredDate": null,
+    "totalItems": 1
+  },
+  {
+    "id": 30,
+    "customerId": 22,
+    "orderDate": "2025-05-20T03:17:35.3477632+00:00",
+    "status": 0,
+    "items": [
+      {
+        "orderId": 30,
+        "productId": 10,
+        "productName": "Brand17 Jeans 432",
+        "quantity": 1,
+        "unitPrice": 188.95,
+        "totalPrice": 179.5025,
+        "discountApplied": 9.4475,
+        "effectiveUnitPrice": 179.5025
+      },
+      {
+        "orderId": 30,
+        "productId": 11,
+        "productName": "Brand16 Biography 242",
+        "quantity": 4,
+        "unitPrice": 230.90,
+        "totalPrice": 912.0550,
+        "discountApplied": 11.5450,
+        "effectiveUnitPrice": 228.01375
+      },
+      {
+        "orderId": 30,
+        "productId": 2,
+        "productName": "Brand9 Jeans 623",
+        "quantity": 3,
+        "unitPrice": 223.00,
+        "totalPrice": 635.5500,
+        "discountApplied": 33.4500,
+        "effectiveUnitPrice": 211.8500
+      }
+    ],
+    "totalAmount": 1727.1075,
+    "discountAmount": 86.355375,
+    "finalAmount": 1640.752125,
+    "notes": "",
+    "shippedDate": null,
+    "deliveredDate": null,
+    "totalItems": 8
+  },
+  {
+    "id": 31,
+    "customerId": 24,
+    "orderDate": "2025-06-26T03:17:35.3477673+00:00",
+    "status": 1,
+    "items": [
+      {
+        "orderId": 31,
+        "productId": 9,
+        "productName": "Brand3 Car 737",
+        "quantity": 2,
+        "unitPrice": 191.19,
+        "totalPrice": 325.0230,
+        "discountApplied": 57.3570,
+        "effectiveUnitPrice": 162.5115
+      },
+      {
+        "orderId": 31,
+        "productId": 1,
+        "productName": "Brand18 Block 420",
+        "quantity": 1,
+        "unitPrice": 111.63,
+        "totalPrice": 94.8855,
+        "discountApplied": 16.7445,
+        "effectiveUnitPrice": 94.8855
+      },
+      {
+        "orderId": 31,
+        "productId": 11,
+        "productName": "Brand16 Biography 242",
+        "quantity": 1,
+        "unitPrice": 230.90,
+        "totalPrice": 196.2650,
+        "discountApplied": 34.6350,
+        "effectiveUnitPrice": 196.2650
+      }
+    ],
+    "totalAmount": 616.1735,
+    "discountAmount": 92.426025,
+    "finalAmount": 523.747475,
+    "notes": "",
+    "shippedDate": null,
+    "deliveredDate": null,
+    "totalItems": 4
+  },
+  {
+    "id": 32,
+    "customerId": 18,
+    "orderDate": "2025-08-06T03:17:35.3477704+00:00",
+    "status": 0,
+    "items": [
+      {
+        "orderId": 32,
+        "productId": 1,
+        "productName": "Brand18 Block 420",
+        "quantity": 3,
+        "unitPrice": 111.63,
+        "totalPrice": 284.6565,
+        "discountApplied": 50.2335,
+        "effectiveUnitPrice": 94.8855
+      },
+      {
+        "orderId": 32,
+        "productId": 9,
+        "productName": "Brand3 Car 737",
+        "quantity": 2,
+        "unitPrice": 191.19,
+        "totalPrice": 325.0230,
+        "discountApplied": 57.3570,
+        "effectiveUnitPrice": 162.5115
+      },
+      {
+        "orderId": 32,
+        "productId": 6,
+        "productName": "Brand12 Bike 582",
+        "quantity": 2,
+        "unitPrice": 163.60,
+        "totalPrice": 278.1200,
+        "discountApplied": 49.0800,
+        "effectiveUnitPrice": 139.0600
+      },
+      {
+        "orderId": 32,
+        "productId": 20,
+        "productName": "Brand18 Textbook 646",
+        "quantity": 3,
+        "unitPrice": 91.80,
+        "totalPrice": 234.0900,
+        "discountApplied": 41.3100,
+        "effectiveUnitPrice": 78.0300
+      }
+    ],
+    "totalAmount": 1121.8895,
+    "discountAmount": 168.283425,
+    "finalAmount": 953.606075,
+    "notes": "",
+    "shippedDate": null,
+    "deliveredDate": null,
+    "totalItems": 10
+  },
+  {
+    "id": 33,
+    "customerId": 9,
+    "orderDate": "2025-06-22T03:17:35.3477745+00:00",
+    "status": 2,
+    "items": [
+      {
+        "orderId": 33,
+        "productId": 9,
+        "productName": "Brand3 Car 737",
+        "quantity": 2,
+        "unitPrice": 191.19,
+        "totalPrice": 325.0230,
+        "discountApplied": 57.3570,
+        "effectiveUnitPrice": 162.5115
+      },
+      {
+        "orderId": 33,
+        "productId": 19,
+        "productName": "Brand15 Ball 247",
+        "quantity": 3,
+        "unitPrice": 93.92,
+        "totalPrice": 253.5840,
+        "discountApplied": 28.1760,
+        "effectiveUnitPrice": 84.5280
+      },
+      {
+        "orderId": 33,
+        "productId": 4,
+        "productName": "Brand9 Robot 842",
+        "quantity": 2,
+        "unitPrice": 111.09,
+        "totalPrice": 188.8530,
+        "discountApplied": 33.3270,
+        "effectiveUnitPrice": 94.4265
+      },
+      {
+        "orderId": 33,
+        "productId": 16,
+        "productName": "Brand11 T-Shirt 756",
+        "quantity": 1,
+        "unitPrice": 131.82,
+        "totalPrice": 112.0470,
+        "discountApplied": 19.7730,
+        "effectiveUnitPrice": 112.0470
+      }
+    ],
+    "totalAmount": 879.5070,
+    "discountAmount": 131.926050,
+    "finalAmount": 747.580950,
+    "notes": "",
+    "shippedDate": "2025-06-24T03:17:35.3477745+00:00",
+    "deliveredDate": null,
+    "totalItems": 8
+  },
+  {
+    "id": 34,
+    "customerId": 30,
+    "orderDate": "2025-06-15T03:17:35.347784+00:00",
+    "status": 1,
+    "items": [
+      {
+        "orderId": 34,
+        "productId": 20,
+        "productName": "Brand18 Textbook 646",
+        "quantity": 5,
+        "unitPrice": 91.80,
+        "totalPrice": 445.2300,
+        "discountApplied": 13.7700,
+        "effectiveUnitPrice": 89.0460
+      },
+      {
+        "orderId": 34,
+        "productId": 15,
+        "productName": "Brand18 Robot 410",
+        "quantity": 2,
+        "unitPrice": 172.96,
+        "totalPrice": 328.6240,
+        "discountApplied": 17.2960,
+        "effectiveUnitPrice": 164.3120
+      },
+      {
+        "orderId": 34,
+        "productId": 14,
+        "productName": "Brand4 Lamp 291",
+        "quantity": 3,
+        "unitPrice": 58.81,
+        "totalPrice": 167.6085,
+        "discountApplied": 8.8215,
+        "effectiveUnitPrice": 55.8695
+      }
+    ],
+    "totalAmount": 941.4625,
+    "discountAmount": 47.073125,
+    "finalAmount": 894.389375,
+    "notes": "",
+    "shippedDate": null,
+    "deliveredDate": null,
+    "totalItems": 10
+  },
+  {
+    "id": 35,
+    "customerId": 30,
+    "orderDate": "2025-07-17T03:17:35.3477877+00:00",
+    "status": 1,
+    "items": [
+      {
+        "orderId": 35,
+        "productId": 3,
+        "productName": "Brand9 Bandage 635",
+        "quantity": 3,
+        "unitPrice": 98.83,
+        "totalPrice": 281.6655,
+        "discountApplied": 14.8245,
+        "effectiveUnitPrice": 93.8885
+      },
+      {
+        "orderId": 35,
+        "productId": 19,
+        "productName": "Brand15 Ball 247",
+        "quantity": 3,
+        "unitPrice": 93.92,
+        "totalPrice": 267.6720,
+        "discountApplied": 14.0880,
+        "effectiveUnitPrice": 89.2240
+      },
+      {
+        "orderId": 35,
+        "productId": 2,
+        "productName": "Brand9 Jeans 623",
+        "quantity": 1,
+        "unitPrice": 223.00,
+        "totalPrice": 211.8500,
+        "discountApplied": 11.1500,
+        "effectiveUnitPrice": 211.8500
+      },
+      {
+        "orderId": 35,
+        "productId": 4,
+        "productName": "Brand9 Robot 842",
+        "quantity": 1,
+        "unitPrice": 111.09,
+        "totalPrice": 105.5355,
+        "discountApplied": 5.5545,
+        "effectiveUnitPrice": 105.5355
+      },
+      {
+        "orderId": 35,
+        "productId": 15,
+        "productName": "Brand18 Robot 410",
+        "quantity": 3,
+        "unitPrice": 172.96,
+        "totalPrice": 492.9360,
+        "discountApplied": 25.9440,
+        "effectiveUnitPrice": 164.3120
+      }
+    ],
+    "totalAmount": 1359.6590,
+    "discountAmount": 67.982950,
+    "finalAmount": 1291.676050,
+    "notes": "",
+    "shippedDate": null,
+    "deliveredDate": null,
+    "totalItems": 11
+  },
+  {
+    "id": 36,
+    "customerId": 3,
+    "orderDate": "2025-06-25T03:17:35.347793+00:00",
+    "status": 4,
+    "items": [
+      {
+        "orderId": 36,
+        "productId": 19,
+        "productName": "Brand15 Ball 247",
+        "quantity": 2,
+        "unitPrice": 93.92,
+        "totalPrice": 159.6640,
+        "discountApplied": 28.1760,
+        "effectiveUnitPrice": 79.8320
+      },
+      {
+        "orderId": 36,
+        "productId": 13,
+        "productName": "Brand17 Lamp 311",
+        "quantity": 2,
+        "unitPrice": 26.53,
+        "totalPrice": 45.1010,
+        "discountApplied": 7.9590,
+        "effectiveUnitPrice": 22.5505
+      },
+      {
+        "orderId": 36,
+        "productId": 8,
+        "productName": "Brand2 Table 706",
+        "quantity": 3,
+        "unitPrice": 141.07,
+        "totalPrice": 359.7285,
+        "discountApplied": 63.4815,
+        "effectiveUnitPrice": 119.9095
+      },
+      {
+        "orderId": 36,
+        "productId": 9,
+        "productName": "Brand3 Car 737",
+        "quantity": 1,
+        "unitPrice": 191.19,
+        "totalPrice": 162.5115,
+        "discountApplied": 28.6785,
+        "effectiveUnitPrice": 162.5115
+      },
+      {
+        "orderId": 36,
+        "productId": 17,
+        "productName": "Brand14 Lamp 384",
+        "quantity": 3,
+        "unitPrice": 190.35,
+        "totalPrice": 485.3925,
+        "discountApplied": 85.6575,
+        "effectiveUnitPrice": 161.7975
+      }
+    ],
+    "totalAmount": 1212.3975,
+    "discountAmount": 181.859625,
+    "finalAmount": 1030.537875,
+    "notes": "",
+    "shippedDate": "2025-06-27T03:17:35.347793+00:00",
+    "deliveredDate": null,
+    "totalItems": 11
+  },
+  {
+    "id": 37,
+    "customerId": 7,
+    "orderDate": "2025-07-16T03:17:35.3477983+00:00",
+    "status": 0,
+    "items": [
+      {
+        "orderId": 37,
+        "productId": 5,
+        "productName": "Brand14 Monitor 506",
+        "quantity": 3,
+        "unitPrice": 81.31,
+        "totalPrice": 207.3405,
+        "discountApplied": 36.5895,
+        "effectiveUnitPrice": 69.1135
+      },
+      {
+        "orderId": 37,
+        "productId": 2,
+        "productName": "Brand9 Jeans 623",
+        "quantity": 4,
+        "unitPrice": 223.00,
+        "totalPrice": 825.1000,
+        "discountApplied": 66.9000,
+        "effectiveUnitPrice": 206.2750
+      },
+      {
+        "orderId": 37,
+        "productId": 16,
+        "productName": "Brand11 T-Shirt 756",
+        "quantity": 1,
+        "unitPrice": 131.82,
+        "totalPrice": 112.0470,
+        "discountApplied": 19.7730,
+        "effectiveUnitPrice": 112.0470
+      },
+      {
+        "orderId": 37,
+        "productId": 7,
+        "productName": "Brand11 Weights 842",
+        "quantity": 2,
+        "unitPrice": 48.37,
+        "totalPrice": 82.2290,
+        "discountApplied": 14.5110,
+        "effectiveUnitPrice": 41.1145
+      }
+    ],
+    "totalAmount": 1226.7165,
+    "discountAmount": 184.007475,
+    "finalAmount": 1042.709025,
+    "notes": "",
+    "shippedDate": null,
+    "deliveredDate": null,
+    "totalItems": 10
+  },
+  {
+    "id": 38,
+    "customerId": 13,
+    "orderDate": "2025-05-13T03:17:35.3478033+00:00",
+    "status": 2,
+    "items": [
+      {
+        "orderId": 38,
+        "productId": 3,
+        "productName": "Brand9 Bandage 635",
+        "quantity": 1,
+        "unitPrice": 98.83,
+        "totalPrice": 84.0055,
+        "discountApplied": 14.8245,
+        "effectiveUnitPrice": 84.0055
+      }
+    ],
+    "totalAmount": 84.0055,
+    "discountAmount": 12.600825,
+    "finalAmount": 71.404675,
+    "notes": "",
+    "shippedDate": "2025-05-14T03:17:35.3478033+00:00",
+    "deliveredDate": null,
+    "totalItems": 1
+  },
+  {
+    "id": 39,
+    "customerId": 4,
+    "orderDate": "2025-07-13T03:17:35.3478047+00:00",
+    "status": 4,
+    "items": [
+      {
+        "orderId": 39,
+        "productId": 16,
+        "productName": "Brand11 T-Shirt 756",
+        "quantity": 4,
+        "unitPrice": 131.82,
+        "totalPrice": 520.6890,
+        "discountApplied": 6.5910,
+        "effectiveUnitPrice": 130.17225
+      },
+      {
+        "orderId": 39,
+        "productId": 17,
+        "productName": "Brand14 Lamp 384",
+        "quantity": 3,
+        "unitPrice": 190.35,
+        "totalPrice": 542.4975,
+        "discountApplied": 28.5525,
+        "effectiveUnitPrice": 180.8325
+      },
+      {
+        "orderId": 39,
+        "productId": 12,
+        "productName": "Brand13 Lipstick 338",
+        "quantity": 3,
+        "unitPrice": 70.52,
+        "totalPrice": 200.9820,
+        "discountApplied": 10.5780,
+        "effectiveUnitPrice": 66.9940
+      }
+    ],
+    "totalAmount": 1264.1685,
+    "discountAmount": 63.208425,
+    "finalAmount": 1200.960075,
+    "notes": "",
+    "shippedDate": "2025-07-14T03:17:35.3478047+00:00",
+    "deliveredDate": null,
+    "totalItems": 10
+  },
+  {
+    "id": 40,
+    "customerId": 10,
+    "orderDate": "2025-06-22T03:17:35.3478109+00:00",
+    "status": 4,
+    "items": [
+      {
+        "orderId": 40,
+        "productId": 19,
+        "productName": "Brand15 Ball 247",
+        "quantity": 2,
+        "unitPrice": 93.92,
+        "totalPrice": 178.4480,
+        "discountApplied": 9.3920,
+        "effectiveUnitPrice": 89.2240
+      }
+    ],
+    "totalAmount": 178.4480,
+    "discountAmount": 8.922400,
+    "finalAmount": 169.525600,
+    "notes": "",
+    "shippedDate": "2025-06-23T03:17:35.3478109+00:00",
+    "deliveredDate": null,
+    "totalItems": 2
+  },
+  {
+    "id": 41,
+    "customerId": 3,
+    "orderDate": "2025-05-29T03:17:35.3478122+00:00",
+    "status": 1,
+    "items": [
+      {
+        "orderId": 41,
+        "productId": 6,
+        "productName": "Brand12 Bike 582",
+        "quantity": 3,
+        "unitPrice": 163.60,
+        "totalPrice": 417.1800,
+        "discountApplied": 73.6200,
+        "effectiveUnitPrice": 139.0600
+      },
+      {
+        "orderId": 41,
+        "productId": 11,
+        "productName": "Brand16 Biography 242",
+        "quantity": 3,
+        "unitPrice": 230.90,
+        "totalPrice": 588.7950,
+        "discountApplied": 103.9050,
+        "effectiveUnitPrice": 196.2650
+      }
+    ],
+    "totalAmount": 1005.9750,
+    "discountAmount": 150.896250,
+    "finalAmount": 855.078750,
+    "notes": "",
+    "shippedDate": null,
+    "deliveredDate": null,
+    "totalItems": 6
+  },
+  {
+    "id": 42,
+    "customerId": 29,
+    "orderDate": "2025-06-05T03:17:35.3478143+00:00",
+    "status": 1,
+    "items": [
+      {
+        "orderId": 42,
+        "productId": 4,
+        "productName": "Brand9 Robot 842",
+        "quantity": 2,
+        "unitPrice": 111.09,
+        "totalPrice": 188.8530,
+        "discountApplied": 33.3270,
+        "effectiveUnitPrice": 94.4265
+      },
+      {
+        "orderId": 42,
+        "productId": 19,
+        "productName": "Brand15 Ball 247",
+        "quantity": 1,
+        "unitPrice": 93.92,
+        "totalPrice": 79.8320,
+        "discountApplied": 14.0880,
+        "effectiveUnitPrice": 79.8320
+      },
+      {
+        "orderId": 42,
+        "productId": 11,
+        "productName": "Brand16 Biography 242",
+        "quantity": 3,
+        "unitPrice": 230.90,
+        "totalPrice": 588.7950,
+        "discountApplied": 103.9050,
+        "effectiveUnitPrice": 196.2650
+      },
+      {
+        "orderId": 42,
+        "productId": 12,
+        "productName": "Brand13 Lipstick 338",
+        "quantity": 3,
+        "unitPrice": 70.52,
+        "totalPrice": 179.8260,
+        "discountApplied": 31.7340,
+        "effectiveUnitPrice": 59.9420
+      }
+    ],
+    "totalAmount": 1037.3060,
+    "discountAmount": 155.595900,
+    "finalAmount": 881.710100,
+    "notes": "",
+    "shippedDate": null,
+    "deliveredDate": null,
+    "totalItems": 9
+  },
+  {
+    "id": 43,
+    "customerId": 20,
+    "orderDate": "2025-08-05T03:17:35.3478185+00:00",
+    "status": 1,
+    "items": [
+      {
+        "orderId": 43,
+        "productId": 2,
+        "productName": "Brand9 Jeans 623",
+        "quantity": 2,
+        "unitPrice": 223.00,
+        "totalPrice": 379.1000,
+        "discountApplied": 66.9000,
+        "effectiveUnitPrice": 189.5500
+      }
+    ],
+    "totalAmount": 379.1000,
+    "discountAmount": 56.865000,
+    "finalAmount": 322.235000,
+    "notes": "",
+    "shippedDate": null,
+    "deliveredDate": null,
+    "totalItems": 2
+  },
+  {
+    "id": 44,
+    "customerId": 30,
+    "orderDate": "2025-07-30T03:17:35.3478197+00:00",
+    "status": 3,
+    "items": [
+      {
+        "orderId": 44,
+        "productId": 8,
+        "productName": "Brand2 Table 706",
+        "quantity": 3,
+        "unitPrice": 141.07,
+        "totalPrice": 402.0495,
+        "discountApplied": 21.1605,
+        "effectiveUnitPrice": 134.0165
+      },
+      {
+        "orderId": 44,
+        "productId": 9,
+        "productName": "Brand3 Car 737",
+        "quantity": 2,
+        "unitPrice": 191.19,
+        "totalPrice": 363.2610,
+        "discountApplied": 19.1190,
+        "effectiveUnitPrice": 181.6305
+      },
+      {
+        "orderId": 44,
+        "productId": 15,
+        "productName": "Brand18 Robot 410",
+        "quantity": 1,
+        "unitPrice": 172.96,
+        "totalPrice": 164.3120,
+        "discountApplied": 8.6480,
+        "effectiveUnitPrice": 164.3120
+      },
+      {
+        "orderId": 44,
+        "productId": 19,
+        "productName": "Brand15 Ball 247",
+        "quantity": 3,
+        "unitPrice": 93.92,
+        "totalPrice": 267.6720,
+        "discountApplied": 14.0880,
+        "effectiveUnitPrice": 89.2240
+      }
+    ],
+    "totalAmount": 1197.2945,
+    "discountAmount": 59.864725,
+    "finalAmount": 1137.429775,
+    "notes": "",
+    "shippedDate": "2025-07-31T03:17:35.3478197+00:00",
+    "deliveredDate": "2025-08-03T03:17:35.3478197+00:00",
+    "totalItems": 9
+  },
+  {
+    "id": 45,
+    "customerId": 22,
+    "orderDate": "2025-05-09T03:17:35.3478239+00:00",
+    "status": 1,
+    "items": [
+      {
+        "orderId": 45,
+        "productId": 5,
+        "productName": "Brand14 Monitor 506",
+        "quantity": 2,
+        "unitPrice": 81.31,
+        "totalPrice": 154.4890,
+        "discountApplied": 8.1310,
+        "effectiveUnitPrice": 77.2445
+      },
+      {
+        "orderId": 45,
+        "productId": 14,
+        "productName": "Brand4 Lamp 291",
+        "quantity": 3,
+        "unitPrice": 58.81,
+        "totalPrice": 167.6085,
+        "discountApplied": 8.8215,
+        "effectiveUnitPrice": 55.8695
+      }
+    ],
+    "totalAmount": 322.0975,
+    "discountAmount": 16.104875,
+    "finalAmount": 305.992625,
+    "notes": "",
+    "shippedDate": null,
+    "deliveredDate": null,
+    "totalItems": 5
+  },
+  {
+    "id": 46,
+    "customerId": 25,
+    "orderDate": "2025-06-25T03:17:35.347826+00:00",
+    "status": 3,
+    "items": [
+      {
+        "orderId": 46,
+        "productId": 9,
+        "productName": "Brand3 Car 737",
+        "quantity": 3,
+        "unitPrice": 191.19,
+        "totalPrice": 544.8915,
+        "discountApplied": 28.6785,
+        "effectiveUnitPrice": 181.6305
+      }
+    ],
+    "totalAmount": 544.8915,
+    "discountAmount": 27.244575,
+    "finalAmount": 517.646925,
+    "notes": "",
+    "shippedDate": "2025-06-27T03:17:35.347826+00:00",
+    "deliveredDate": "2025-06-29T03:17:35.347826+00:00",
+    "totalItems": 3
+  },
+  {
+    "id": 47,
+    "customerId": 4,
+    "orderDate": "2025-06-03T03:17:35.3478275+00:00",
+    "status": 2,
+    "items": [
+      {
+        "orderId": 47,
+        "productId": 15,
+        "productName": "Brand18 Robot 410",
+        "quantity": 3,
+        "unitPrice": 172.96,
+        "totalPrice": 492.9360,
+        "discountApplied": 25.9440,
+        "effectiveUnitPrice": 164.3120
+      },
+      {
+        "orderId": 47,
+        "productId": 8,
+        "productName": "Brand2 Table 706",
+        "quantity": 6,
+        "unitPrice": 141.07,
+        "totalPrice": 825.2595,
+        "discountApplied": 21.1605,
+        "effectiveUnitPrice": 137.54325
+      },
+      {
+        "orderId": 47,
+        "productId": 16,
+        "productName": "Brand11 T-Shirt 756",
+        "quantity": 2,
+        "unitPrice": 131.82,
+        "totalPrice": 250.4580,
+        "discountApplied": 13.1820,
+        "effectiveUnitPrice": 125.2290
+      },
+      {
+        "orderId": 47,
+        "productId": 20,
+        "productName": "Brand18 Textbook 646",
+        "quantity": 3,
+        "unitPrice": 91.80,
+        "totalPrice": 261.6300,
+        "discountApplied": 13.7700,
+        "effectiveUnitPrice": 87.2100
+      }
+    ],
+    "totalAmount": 1830.2835,
+    "discountAmount": 91.514175,
+    "finalAmount": 1738.769325,
+    "notes": "",
+    "shippedDate": "2025-06-05T03:17:35.3478275+00:00",
+    "deliveredDate": null,
+    "totalItems": 14
+  },
+  {
+    "id": 48,
+    "customerId": 24,
+    "orderDate": "2025-05-30T03:17:35.3478325+00:00",
+    "status": 2,
+    "items": [
+      {
+        "orderId": 48,
+        "productId": 7,
+        "productName": "Brand11 Weights 842",
+        "quantity": 2,
+        "unitPrice": 48.37,
+        "totalPrice": 82.2290,
+        "discountApplied": 14.5110,
+        "effectiveUnitPrice": 41.1145
+      }
+    ],
+    "totalAmount": 82.2290,
+    "discountAmount": 12.334350,
+    "finalAmount": 69.894650,
+    "notes": "",
+    "shippedDate": "2025-05-31T03:17:35.3478325+00:00",
+    "deliveredDate": null,
+    "totalItems": 2
+  },
+  {
+    "id": 49,
+    "customerId": 6,
+    "orderDate": "2025-07-25T03:17:35.3478471+00:00",
+    "status": 1,
+    "items": [
+      {
+        "orderId": 49,
+        "productId": 6,
+        "productName": "Brand12 Bike 582",
+        "quantity": 1,
+        "unitPrice": 163.60,
+        "totalPrice": 139.0600,
+        "discountApplied": 24.5400,
+        "effectiveUnitPrice": 139.0600
+      }
+    ],
+    "totalAmount": 139.0600,
+    "discountAmount": 20.859000,
+    "finalAmount": 118.201000,
+    "notes": "",
+    "shippedDate": null,
+    "deliveredDate": null,
+    "totalItems": 1
+  },
+  {
+    "id": 50,
+    "customerId": 18,
+    "orderDate": "2025-08-05T03:17:35.3478485+00:00",
+    "status": 3,
+    "items": [
+      {
+        "orderId": 50,
+        "productId": 3,
+        "productName": "Brand9 Bandage 635",
+        "quantity": 2,
+        "unitPrice": 98.83,
+        "totalPrice": 168.0110,
+        "discountApplied": 29.6490,
+        "effectiveUnitPrice": 84.0055
+      },
+      {
+        "orderId": 50,
+        "productId": 9,
+        "productName": "Brand3 Car 737",
+        "quantity": 1,
+        "unitPrice": 191.19,
+        "totalPrice": 162.5115,
+        "discountApplied": 28.6785,
+        "effectiveUnitPrice": 162.5115
+      }
+    ],
+    "totalAmount": 330.5225,
+    "discountAmount": 49.578375,
+    "finalAmount": 280.944125,
+    "notes": "",
+    "shippedDate": "2025-08-06T03:17:35.3478485+00:00",
+    "deliveredDate": "2025-08-11T03:17:35.3478485+00:00",
+    "totalItems": 3
+  }
+]

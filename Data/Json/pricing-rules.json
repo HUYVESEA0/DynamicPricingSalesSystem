@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Low Stock Premium",
+    "ruleType": 0,
+    "isActive": true,
+    "priority": 1,
+    "conditions": "Stock \u003C 10",
+    "minPriceMultiplier": 1.0,
+    "maxPriceMultiplier": 1.3,
+    "applicableCategories": "",
+    "createdDate": "0001-01-01T00:00:00",
+    "lastApplied": null,
+    "description": "Increase price when stock is low"
+  },
+  {
+    "id": 2,
+    "name": "High Demand Surge",
+    "ruleType": 1,
+    "isActive": true,
+    "priority": 2,
+    "conditions": "DemandScore \u003E 1.5",
+    "minPriceMultiplier": 1.0,
+    "maxPriceMultiplier": 1.4,
+    "applicableCategories": "",
+    "createdDate": "0001-01-01T00:00:00",
+    "lastApplied": null,
+    "description": "Increase price during high demand"
+  },
+  {
+    "id": 3,
+    "name": "Competitive Pricing",
+    "ruleType": 2,
+    "isActive": true,
+    "priority": 3,
+    "conditions": "CompetitorPrice \u003C CurrentPrice",
+    "minPriceMultiplier": 0.9,
+    "maxPriceMultiplier": 1.1,
+    "applicableCategories": "",
+    "createdDate": "0001-01-01T00:00:00",
+    "lastApplied": null,
+    "description": "Match competitor prices"
+  },
+  {
+    "id": 4,
+    "name": "VIP Customer Discount",
+    "ruleType": 4,
+    "isActive": true,
+    "priority": 4,
+    "conditions": "CustomerSegment = VIP",
+    "minPriceMultiplier": 0.8,
+    "maxPriceMultiplier": 0.95,
+    "applicableCategories": "",
+    "createdDate": "0001-01-01T00:00:00",
+    "lastApplied": null,
+    "description": "Special pricing for VIP customers"
+  },
+  {
+    "id": 5,
+    "name": "Weekend Premium",
+    "ruleType": 3,
+    "isActive": true,
+    "priority": 5,
+    "conditions": "DayOfWeek = Saturday OR Sunday",
+    "minPriceMultiplier": 1.0,
+    "maxPriceMultiplier": 1.2,
+    "applicableCategories": "",
+    "createdDate": "0001-01-01T00:00:00",
+    "lastApplied": null,
+    "description": "Weekend pricing premium"
+  }
+]

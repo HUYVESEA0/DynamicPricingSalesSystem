@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "competitorId": 1,
+    "productName": "Brand14 Monitor 506",
+    "category": "Health",
+    "price": 79.60,
+    "dateRecorded": "2025-08-04T07:17:35.3618482+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 2,
+    "competitorId": 1,
+    "productName": "Brand12 Bike 582",
+    "category": "Sports",
+    "price": 134.86,
+    "dateRecorded": "2025-08-04T04:17:35.3619716+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 3,
+    "competitorId": 1,
+    "productName": "Brand9 Robot 842",
+    "category": "Toys",
+    "price": 90.87,
+    "dateRecorded": "2025-08-05T16:17:35.3619729+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 4,
+    "competitorId": 1,
+    "productName": "Brand3 Car 737",
+    "category": "Toys",
+    "price": 220.76,
+    "dateRecorded": "2025-08-05T10:17:35.3619734+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 5,
+    "competitorId": 1,
+    "productName": "Brand18 Textbook 646",
+    "category": "Books",
+    "price": 79.02,
+    "dateRecorded": "2025-08-04T16:17:35.3619738+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 6,
+    "competitorId": 1,
+    "productName": "Brand16 Biography 242",
+    "category": "Books",
+    "price": 268.56,
+    "dateRecorded": "2025-08-05T19:17:35.3619746+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 7,
+    "competitorId": 1,
+    "productName": "Brand11 T-Shirt 756",
+    "category": "Clothing",
+    "price": 142.55,
+    "dateRecorded": "2025-08-05T04:17:35.361975+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 8,
+    "competitorId": 1,
+    "productName": "Brand15 Ball 247",
+    "category": "Sports",
+    "price": 95.84,
+    "dateRecorded": "2025-08-05T03:17:35.3619753+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 9,
+    "competitorId": 1,
+    "productName": "Brand4 Lamp 291",
+    "category": "Home \u0026 Garden",
+    "price": 61.56,
+    "dateRecorded": "2025-08-04T22:17:35.3619757+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 10,
+    "competitorId": 1,
+    "productName": "Brand18 Block 420",
+    "category": "Toys",
+    "price": 133.07,
+    "dateRecorded": "2025-08-05T19:17:35.3619762+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 11,
+    "competitorId": 2,
+    "productName": "Brand12 Bike 582",
+    "category": "Sports",
+    "price": 178.15,
+    "dateRecorded": "2025-08-04T09:17:35.3620113+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 12,
+    "competitorId": 2,
+    "productName": "Brand9 Jeans 623",
+    "category": "Clothing",
+    "price": 240.22,
+    "dateRecorded": "2025-08-04T17:17:35.3620117+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 13,
+    "competitorId": 2,
+    "productName": "Brand18 Robot 410",
+    "category": "Toys",
+    "price": 203.53,
+    "dateRecorded": "2025-08-05T21:17:35.362012+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 14,
+    "competitorId": 2,
+    "productName": "Brand15 Ball 247",
+    "category": "Sports",
+    "price": 107.95,
+    "dateRecorded": "2025-08-05T00:17:35.3620122+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 15,
+    "competitorId": 2,
+    "productName": "Brand17 Jeans 432",
+    "category": "Clothing",
+    "price": 222.01,
+    "dateRecorded": "2025-08-04T04:17:35.3620126+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 16,
+    "competitorId": 2,
+    "productName": "Brand11 T-Shirt 756",
+    "category": "Clothing",
+    "price": 136.44,
+    "dateRecorded": "2025-08-05T08:17:35.3620128+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 17,
+    "competitorId": 2,
+    "productName": "Brand2 Sweater 948",
+    "category": "Clothing",
+    "price": 124.31,
+    "dateRecorded": "2025-08-05T06:17:35.3620131+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 18,
+    "competitorId": 2,
+    "productName": "Brand18 Textbook 646",
+    "category": "Books",
+    "price": 86.30,
+    "dateRecorded": "2025-08-04T15:17:35.3620135+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 19,
+    "competitorId": 2,
+    "productName": "Brand14 Lamp 384",
+    "category": "Home \u0026 Garden",
+    "price": 210.04,
+    "dateRecorded": "2025-08-05T04:17:35.3620139+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 20,
+    "competitorId": 2,
+    "productName": "Brand16 Biography 242",
+    "category": "Books",
+    "price": 206.07,
+    "dateRecorded": "2025-08-04T08:17:35.3620254+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 21,
+    "competitorId": 3,
+    "productName": "Brand14 Lamp 384",
+    "category": "Home \u0026 Garden",
+    "price": 165.46,
+    "dateRecorded": "2025-08-05T13:17:35.3620449+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 22,
+    "competitorId": 3,
+    "productName": "Brand17 Lamp 311",
+    "category": "Home \u0026 Garden",
+    "price": 26.98,
+    "dateRecorded": "2025-08-05T22:17:35.3620452+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 23,
+    "competitorId": 3,
+    "productName": "Brand15 Ball 247",
+    "category": "Sports",
+    "price": 99.10,
+    "dateRecorded": "2025-08-05T11:17:35.3620455+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 24,
+    "competitorId": 3,
+    "productName": "Brand18 Textbook 646",
+    "category": "Books",
+    "price": 96.89,
+    "dateRecorded": "2025-08-05T21:17:35.3620457+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 25,
+    "competitorId": 3,
+    "productName": "Brand14 Monitor 506",
+    "category": "Health",
+    "price": 84.90,
+    "dateRecorded": "2025-08-06T02:17:35.3620459+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 26,
+    "competitorId": 3,
+    "productName": "Brand2 Table 706",
+    "category": "Home \u0026 Garden",
+    "price": 160.44,
+    "dateRecorded": "2025-08-05T09:17:35.3620462+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 27,
+    "competitorId": 3,
+    "productName": "Brand17 Jeans 432",
+    "category": "Clothing",
+    "price": 187.61,
+    "dateRecorded": "2025-08-05T07:17:35.3620465+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 28,
+    "competitorId": 3,
+    "productName": "Brand12 Bike 582",
+    "category": "Sports",
+    "price": 176.54,
+    "dateRecorded": "2025-08-05T11:17:35.3620468+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 29,
+    "competitorId": 3,
+    "productName": "Brand18 Block 420",
+    "category": "Toys",
+    "price": 89.69,
+    "dateRecorded": "2025-08-05T09:17:35.362047+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 30,
+    "competitorId": 3,
+    "productName": "Brand9 Robot 842",
+    "category": "Toys",
+    "price": 119.58,
+    "dateRecorded": "2025-08-06T02:17:35.3620473+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 31,
+    "competitorId": 4,
+    "productName": "Brand14 Lamp 384",
+    "category": "Home \u0026 Garden",
+    "price": 179.67,
+    "dateRecorded": "2025-08-05T01:17:35.3620638+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 32,
+    "competitorId": 4,
+    "productName": "Brand12 Bike 582",
+    "category": "Sports",
+    "price": 159.68,
+    "dateRecorded": "2025-08-05T03:17:35.362064+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 33,
+    "competitorId": 4,
+    "productName": "Brand17 Lamp 311",
+    "category": "Home \u0026 Garden",
+    "price": 27.18,
+    "dateRecorded": "2025-08-05T06:17:35.3620643+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 34,
+    "competitorId": 4,
+    "productName": "Brand11 Weights 842",
+    "category": "Sports",
+    "price": 55.17,
+    "dateRecorded": "2025-08-05T04:17:35.3620647+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 35,
+    "competitorId": 4,
+    "productName": "Brand15 Ball 247",
+    "category": "Sports",
+    "price": 96.24,
+    "dateRecorded": "2025-08-05T15:17:35.3620649+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 36,
+    "competitorId": 4,
+    "productName": "Brand9 Bandage 635",
+    "category": "Health",
+    "price": 80.67,
+    "dateRecorded": "2025-08-05T11:17:35.3620652+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 37,
+    "competitorId": 4,
+    "productName": "Brand11 T-Shirt 756",
+    "category": "Clothing",
+    "price": 116.18,
+    "dateRecorded": "2025-08-04T19:17:35.3620654+00:00",
+    "source": "Web Scraping",
+    "isAvailable": false
+  },
+  {
+    "id": 38,
+    "competitorId": 4,
+    "productName": "Brand2 Sweater 948",
+    "category": "Clothing",
+    "price": 99.50,
+    "dateRecorded": "2025-08-05T23:17:35.3620657+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 39,
+    "competitorId": 4,
+    "productName": "Brand2 Table 706",
+    "category": "Home \u0026 Garden",
+    "price": 142.86,
+    "dateRecorded": "2025-08-05T08:17:35.3620659+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 40,
+    "competitorId": 4,
+    "productName": "Brand18 Block 420",
+    "category": "Toys",
+    "price": 115.66,
+    "dateRecorded": "2025-08-05T14:17:35.3620661+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 41,
+    "competitorId": 5,
+    "productName": "Brand9 Robot 842",
+    "category": "Toys",
+    "price": 111.83,
+    "dateRecorded": "2025-08-04T10:17:35.3620825+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 42,
+    "competitorId": 5,
+    "productName": "Brand11 T-Shirt 756",
+    "category": "Clothing",
+    "price": 137.23,
+    "dateRecorded": "2025-08-04T04:17:35.3620828+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 43,
+    "competitorId": 5,
+    "productName": "Brand11 Weights 842",
+    "category": "Sports",
+    "price": 45.25,
+    "dateRecorded": "2025-08-05T07:17:35.362083+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 44,
+    "competitorId": 5,
+    "productName": "Brand16 Biography 242",
+    "category": "Books",
+    "price": 224.27,
+    "dateRecorded": "2025-08-05T11:17:35.3620832+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 45,
+    "competitorId": 5,
+    "productName": "Brand14 Monitor 506",
+    "category": "Health",
+    "price": 83.03,
+    "dateRecorded": "2025-08-04T07:17:35.3620834+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 46,
+    "competitorId": 5,
+    "productName": "Brand13 Lipstick 338",
+    "category": "Beauty",
+    "price": 68.04,
+    "dateRecorded": "2025-08-05T07:17:35.3620837+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 47,
+    "competitorId": 5,
+    "productName": "Brand2 Sweater 948",
+    "category": "Clothing",
+    "price": 134.46,
+    "dateRecorded": "2025-08-06T02:17:35.362084+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 48,
+    "competitorId": 5,
+    "productName": "Brand17 Lamp 311",
+    "category": "Home \u0026 Garden",
+    "price": 21.28,
+    "dateRecorded": "2025-08-04T17:17:35.3620842+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 49,
+    "competitorId": 5,
+    "productName": "Brand9 Bandage 635",
+    "category": "Health",
+    "price": 95.10,
+    "dateRecorded": "2025-08-04T06:17:35.3620844+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  },
+  {
+    "id": 50,
+    "competitorId": 5,
+    "productName": "Brand3 Car 737",
+    "category": "Toys",
+    "price": 155.47,
+    "dateRecorded": "2025-08-04T17:17:35.3620847+00:00",
+    "source": "Web Scraping",
+    "isAvailable": true
+  }
+]

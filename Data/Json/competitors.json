@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "CompetitorA",
+    "website": "www.competitora.com",
+    "isActive": true,
+    "marketShare": 0.21788956216870525,
+    "pricingStrategy": "Discount",
+    "lastUpdated": "2025-08-05T18:17:35.3604595+00:00"
+  },
+  {
+    "id": 2,
+    "name": "CompetitorB",
+    "website": "www.competitorb.com",
+    "isActive": true,
+    "marketShare": 0.1618746705143032,
+    "pricingStrategy": "Premium",
+    "lastUpdated": "2025-08-05T11:17:35.3605907+00:00"
+  },
+  {
+    "id": 3,
+    "name": "CompetitorC",
+    "website": "www.competitorc.com",
+    "isActive": true,
+    "marketShare": 0.08408972437174816,
+    "pricingStrategy": "Competitive",
+    "lastUpdated": "2025-08-05T22:17:35.3605947+00:00"
+  },
+  {
+    "id": 4,
+    "name": "MarketLeader",
+    "website": "www.marketleader.com",
+    "isActive": true,
+    "marketShare": 0.3430427872508764,
+    "pricingStrategy": "Discount",
+    "lastUpdated": "2025-08-05T10:17:35.3605953+00:00"
+  },
+  {
+    "id": 5,
+    "name": "Discount Store",
+    "website": "www.discount store.com",
+    "isActive": true,
+    "marketShare": 0.2735621028028042,
+    "pricingStrategy": "Discount",
+    "lastUpdated": "2025-08-05T23:17:35.3605956+00:00"
+  }
+]
